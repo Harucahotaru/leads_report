@@ -1,0 +1,13 @@
+{
+  "require": {
+    "php": "^7.4",
+    "ext-mysqli": "*",
+    "twbs/bootstrap": "5.0.2",
+    "ext-gd": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "src/"
+    }
+  }
+}
